@@ -1,2 +1,3 @@
-# hello-world
-Classic hello-world!
+# Hello world!
+
+It's Wow452 from scratch (scratch.mit.edu)!
